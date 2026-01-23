@@ -9,8 +9,7 @@
 - 🔭 **Currently working on:** [GDBAMS](https://github.com/tufailbaba/gdcbadms) – an Admission Management System.
 - 💻 **Passionate about:** Backend architecture, Ruby on Rails, and performance optimization.
 - 📫 **Reach me at:** [tufailbabacoc@gmail.com](mailto:tufailbabacoc@gmail.com)
-- ⚡ **Fun fact:** I'm likely *Escapinggggg* into code or a good cricket match.
-
+- ⚡ **Fun fact:** Busy finding the Exit Node. 🔌
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ruby,rails,python,js,c,cpp,html,css,bootstrap,nodejs" />
