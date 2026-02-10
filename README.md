@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** [AirBnb](https://github.com/tufailbaba/AirBnb) – an Attendance Management System.
+- 🔭 **Currently working on:** [AirBnb](https://github.com/tufailbaba/AirBnb) – Cloning AirBnb.
 - 💻 **Passionate about:** Backend architecture, Ruby on Rails, and performance optimization.
 - 📫 **Reach me at:** [tufailbabacoc@gmail.com](mailto:tufailbabacoc@gmail.com)
 - ⚡ **Fun fact:** Busy finding the Exit Node. 🔌
