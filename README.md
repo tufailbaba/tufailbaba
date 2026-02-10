@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** [GDBAMS](https://github.com/tufailbaba/gdcbadms) – an Attendance Management System.
+- 🔭 **Currently working on:** [GDBAMS](https://github.com/tufailbaba/AirBnb) – an Attendance Management System.
 - 💻 **Passionate about:** Backend architecture, Ruby on Rails, and performance optimization.
 - 📫 **Reach me at:** [tufailbabacoc@gmail.com](mailto:tufailbabacoc@gmail.com)
 - ⚡ **Fun fact:** Busy finding the Exit Node. 🔌
