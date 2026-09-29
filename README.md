@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** [AirBnb](https://github.com/tufailbaba/AirBnb) – Cloning AirBnb.
+- 🔭 **working on:** [AirBnb](https://github.com/tufailbaba/AirBnb) – Cloning AirBnb.
 - 💻 **Passionate about:** Backend architecture, Ruby on Rails, and performance optimization.
 - 📫 **Reach me at:** [tufailbabacoc@gmail.com](mailto:tufailbabacoc@gmail.com)
 - ⚡ **Fun fact:** Busy finding the Exit Node. 🔌
@@ -37,7 +37,7 @@
   <a href="https://twitter.com/tufailbaba10" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://instagram.com/tufailbaba.10" target="_blank">
+  <a href="https://instagram.com/tufailbaba_10" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
